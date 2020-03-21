@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { FaGithub } from 'react-icons/fa';
 
-import { Main } from './styles';
+import './styles.scss';
 
 const Home = () => {
   const textAreaRef = useRef(null);
@@ -81,7 +81,7 @@ border-bottom-left-radius: 4px;`);
   };
 
   return (
-    <Main>
+    <main>
       <span>
         <p>Give me star</p>
         <a
@@ -109,7 +109,7 @@ ${cssInJs}
       <button onClick={copyToClipboard} type='button'>
         {button}
       </button>
-    </Main>
+    </main>
   );
 };
 
