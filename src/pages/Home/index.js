@@ -16,8 +16,7 @@ padding: 20px;
 font-size: 18px;
 background: #111;
 color: #f5f5f5;
-font-family: 'Roboto Mono', monospace;
-border-bottom-left-radius: 4px;`);
+font-family: 'Roboto Mono', monospace;`);
 
   const capitalize = string => string.charAt(0).toUpperCase() + string.slice(1);
 
