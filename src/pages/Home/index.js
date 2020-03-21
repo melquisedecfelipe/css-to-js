@@ -93,7 +93,11 @@ font-family: 'Roboto Mono', monospace;`);
       </span>
       <div>
         <h2>CSS</h2>
-        <textarea onChange={e => setCss(e.target.value)} value={css} />
+        <textarea
+          onChange={e => setCss(e.target.value)}
+          value={css}
+          placeholder='Your CSS code'
+        />
       </div>
       <div className='result'>
         <h2>CSS in JS</h2>
