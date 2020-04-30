@@ -1,9 +1,6 @@
-<h1 align="center">
-    <img alt="CSS to JS" src="https://res.cloudinary.com/dtifsqadc/image/upload/v1584988211/paint_1_klsywh.png" />
-    <br>
-</h1>
+<h1>CSS to JS</h1>
 
-<p align="center">
+<p>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/css-to-js.svg">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/css-to-js.svg">
@@ -21,7 +18,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/css-to-js.svg">
 </p>
 
-<p align="center">
+<p>
   <a href="https://csstojs.netlify.com">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
